@@ -1,0 +1,63 @@
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 165px;
+}
+
+.card {
+    margin: 10px;  
+    width: 18rem;
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+}
+.card:hover{
+    filter: brightness(1.1) contrast(1.2);
+}
+
+.about{
+    margin-top: 200px;
+}
+
+.details{
+    display: flex;
+    justify-content: center;
+    margin-top: 270px;
+    color: #dee2e6;
+   
+      
+    width: 18rem;
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+}
+
+
+.aboutus{
+    margin-top: 120px;
+    margin-bottom: -110px;
+    color: #dee2e6;
+    height: 160px;
+}
+
+.formm {
+    
+   
+    color: #dee2e6;
+    margin-top: 70px;
+    width: 600px;
+    height: 500px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: .375rem;
+    box-shadow: 0 .125rem .25rem rgba(2, 2, 2, 2);
+}
+.btnn{
+   width: 300px;
+   margin-left: 130px;
+}
+
+
+
